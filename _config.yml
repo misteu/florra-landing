@@ -7,27 +7,27 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://mic.st                            # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Your plant organizer, fast and simple with privacy in mind.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Michael Steudter                                
+your_link                                 : https://mic.st                     
+your_city                                 : Düsseldorf                                
+email_address                             : contact@mic.st
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        :
+twitter_username                          : _michst
+github_username                           : misteu
 youtube_username                          :
 
 
@@ -35,41 +35,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Save your Plants in Florra 
+    description                           : Create plants, with custom names, descriptions and photos.
+    fontawesome_icon_name                 : leaf
+
+  - title                                 : Create Plants using AI Identification *PREMIUM Feature* 
+    description                           : Quickly create new plants by taking a photo of your plant or choose an existing one from your gallery. Choose from common or scientific plant names!
     fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Organize your Plants
+    description                           : Easily group multiple plants into groups using drag and drop gestures or via the plant's details screen.
+    fontawesome_icon_name                 : objects-column
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Add Reminders for any Plant or Group of Plants
+    description                           : Create one-time or recurring reminders for your plants. All of today's reminders are shown on your overview, see all of your reminders via the "Notifications" tab.
+    fontawesome_icon_name                 : bell-on
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Manage your own Plant Diary *PREMIUM Feature*
+    description                           : Create diary entries that can be associated with your plants or groups of plants. Add photos to your entries for a more lively diary, to track growth etc.
+    fontawesome_icon_name                 : book
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Filter your Diary *PREMIUM Feature*
+    description                           : Your diary has simple to use filters that let you filter you entries by year, plant, group or category.
+    fontawesome_icon_name                 : filter-list
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Create your own Categories *PREMIUM Feature*
+    description                           : Get even more creative and efficient by creating your own categories. They can be used to categorize notifications or diary entries. The diary filter is automatically able to use your custom categories!
+    fontawesome_icon_name                 : grid-2-plus 
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Everything is local, no Internet connection needed!
+    description                           : All data is saved on your device and stays on your device. Therefore all your data is instantly available!
+    fontawesome_icon_name                 : cloud-slash
+
+  - title                                 : Privacy First
+    description                           : None of your created content is ever uploaded anywhere. More Privacy friendly analytics (Telemetry Deck) is used instead of Google services.
+    fontawesome_icon_name                 : user-shield
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
