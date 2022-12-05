@@ -52,20 +52,20 @@ features                                  :
     fontawesome_icon_name                 : bell
 
   - title                                 : Manage your own Plant Diary
-    description                           : "*PREMIUM:* Create diary entries that can be associated with your plants or groups of plants. Add photos to your entries for a more lively diary, to track growth etc."
+    description                           : "(PREMIUM) Create diary entries that can be associated with your plants or groups of plants. Add photos to your entries for a more lively diary, to track growth etc."
     fontawesome_icon_name                 : book
 
   - title                                 : Filter your Diary
-    description                           : "*PREMIUM:* Your diary has simple to use filters that let you filter you entries by year, plant, group or category."
+    description                           : "(PREMIUM) Your diary has simple to use filters that let you filter you entries by year, plant, group or category."
     fontawesome_icon_name                 : filter
 
   - title                                 : Add your own Categories
-    description                           : "*PREMIUM:* Get even more creative and efficient by adding your own categories. They can be used to categorize notifications or diary entries. The diary filter is automatically able to use your custom categories!"
+    description                           : "(PREMIUM) Get even more creative and efficient by adding your own categories. They can be used to categorize notifications or diary entries. The diary filter is automatically able to use your custom categories!"
     fontawesome_icon_name                 : shapes
 
   - title                                 : Everything is local, no Internet connection needed!
     description                           : All data is saved on your device and stays on your device. Therefore all your data is instantly available!
-    fontawesome_icon_name                 : house
+    fontawesome_icon_name                 : sd-card
 
   - title                                 : Privacy First
     description                           : None of your created content is ever uploaded anywhere. More Privacy friendly analytics (Telemetry Deck) is used instead of Google services.
