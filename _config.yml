@@ -40,12 +40,12 @@ features                                  :
     fontawesome_icon_name                 : leaf
 
   - title                                 : AI Identification for adding Plants
-    description                           : "*PREMIUM:* Quickly create new plants by taking a photo of your plant or choose an existing one from your gallery. Choose from common or scientific plant names!"
+    description                           : "(PREMIUM) Quickly create new plants by taking a photo of your plant or choose an existing one from your gallery. Choose from common or scientific plant names!"
     fontawesome_icon_name                 : magic
 
   - title                                 : Organize your Plants
     description                           : Easily group multiple plants into groups using drag and drop gestures or via the plant's details screen.
-    fontawesome_icon_name                 : objects
+    fontawesome_icon_name                 : object-group
 
   - title                                 : Add Reminders for any Plant or Group of Plants
     description                           : Create one-time or recurring reminders for your plants. All of today's reminders are shown on your overview, see all of your reminders via the "Notifications" tab.
@@ -63,12 +63,12 @@ features                                  :
     description                           : "(PREMIUM) Get even more creative and efficient by adding your own categories. They can be used to categorize notifications or diary entries. The diary filter is automatically able to use your custom categories!"
     fontawesome_icon_name                 : shapes
 
-  - title                                 : Everything is local, no Internet connection needed!
-    description                           : All data is saved on your device and stays on your device. Therefore all your data is instantly available!
+  - title                                 : Florra is really fast!
+    description                           : All data is saved on your device and stays on your device. Therefore all your data is private and instantly available!
     fontawesome_icon_name                 : sd-card
 
-  - title                                 : Privacy First
-    description                           : None of your created content is ever uploaded anywhere. More Privacy friendly analytics (Telemetry Deck) is used instead of Google services.
+  - title                                 : With Privacy in Mind
+    description                           : None of your created content is ever uploaded anywhere. Privacy friendly analytics (Telemetry Deck) is used instead of Google services and only if you accept!
     fontawesome_icon_name                 : user-shield
 
   - title                                 : # New Feature Title
