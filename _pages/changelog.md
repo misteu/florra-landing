@@ -7,10 +7,15 @@ include_in_header: true
 # Changelog
 Here you can see all the updates added in each version.
 
-<br>
+# **v0.3**
+Version 0.3 of Florra includes a couple of updates, these are the major ones:
+- fixed a bug where you could not add photos via camera
+- updated photo preview
+- added sharing with photo roll
+- fixed some typos
+- reordered settings
 
-### `Alpha`
-# **Version 0.2**
+# **v0.2**
 First release of the app including all of the basic functionalities.
 
 <!-- 
