@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 Here you can see all the updates added in each version.
 
+# **v0.5**
+- bugfix on the diary filter
+- dark mode improvements
+- minor improvements
+
+# **v0.4**
+- adds German localization
+- minor improvements
+
 # **v0.3**
 Version 0.3 of Florra includes a couple of updates, these are the major ones:
 - fixed a bug where you could not add photos via camera
