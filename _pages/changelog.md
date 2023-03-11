@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 Here you can see all the updates added in each version.
 
+# **v0.7**
+- Based on your valuable user feedback, there is now a brand new feature for your diary: You can create now batches of diary entries by tapping the new "Associated Plants" button! E.g. create watering events for 5, 23 or how much plants you like by just saving a single event.
+
+- small bugfixes (e.g. name of plants were not updated immediately after changing)
+
+# **v0.6**
+- users are now warned for unsaved changes on the diary event entry screen
+- minor improvements
+
 # **v0.5**
 - bugfix on the diary filter
 - dark mode improvements
