@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 Here you can see all the updates added in each version.
 
+# **v0.7.1**
+- Mostly bugfixes + enhancements on associated plant selection screen
+- Changing of associated plant will reflect change in event immediately
+- Removed title input field for events
+- Updated event list rendering
+
 # **v0.7**
 - Based on your valuable user feedback, there is now a brand new feature for your diary: You can create now batches of diary entries by tapping the new "Associated Plants" button! E.g. create watering events for 5, 23 or how much plants you like by just saving a single event.
 
