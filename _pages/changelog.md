@@ -7,6 +7,14 @@ include_in_header: true
 # Changelog
 Here you can see all the updates added in each version.
 
+# **v0.8**
+Version 0.8 updates the plant details with some new data you can save for any plant!
+- Plant care data: You can save now for the first time plant care data to any plant, i.e. watering needs, lighting and humidity conditions.
+- Save the plant's pot size: There is a brand new screen for saving a plant's current pot size with it's last repotting date.
+- Taxonomy data: You are able to add now a plant's genus, species and cultivar. Genus and species is filled up automatically when using plant identification!
+
+The new plant care data and taxonomy features are the first steps towards automatically filling up your database with default plant care data based on the taxonomy in a later update!
+
 # **v0.7.1**
 - Mostly bugfixes + enhancements on associated plant selection screen
 - Changing of associated plant will reflect change in event immediately
