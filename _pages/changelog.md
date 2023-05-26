@@ -7,6 +7,11 @@ include_in_header: true
 # Changelog
 Here you can see all the updates added in each version.
 
+# **v0.9**
+In Version 0.9.0 of Florra the Genus selector got some great updates! As of now you can select any genus on your plant details and default plant care data will be loaded automatically if you want!
+
+Besides that some smaller things, e.g. localization issues were fixed.
+
 # **v0.8**
 Version 0.8 updates the plant details with some new data you can save for any plant!
 - Plant care data: You can save now for the first time plant care data to any plant, i.e. watering needs, lighting and humidity conditions.
